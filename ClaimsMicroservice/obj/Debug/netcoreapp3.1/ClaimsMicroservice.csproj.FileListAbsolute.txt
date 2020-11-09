@@ -1,0 +1,285 @@
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.exe
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.deps.json
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.json
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.dev.json
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csprojAssemblyReference.cache
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfoInputs.cache
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfo.cs
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.xml
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.genruntimeconfig.cache
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CopyComplete
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tiwari\source\repos\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.exe
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.deps.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.dev.json
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csprojAssemblyReference.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfoInputs.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfo.cs
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CopyComplete
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.xml
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.genruntimeconfig.cache
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.exe
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.deps.json
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.json
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.dev.json
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csprojAssemblyReference.cache
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfoInputs.cache
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfo.cs
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CoreCompileInputs.cache
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.RazorTargetAssemblyInfo.cache
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CopyComplete
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.Manifest.cache
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.xml
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+E:\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.genruntimeconfig.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abhishek Tiwari\Desktop\MFPE\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.exe
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.deps.json
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.json
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.dev.json
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csprojAssemblyReference.cache
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfoInputs.cache
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CopyComplete
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.xml
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\sud44\OneDrive\Desktop\New Pull\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.exe
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.deps.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\ASUS\Desktop\ClaimManagementSyatem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.genruntimeconfig.cache
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.exe
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.deps.json
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.json
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.dev.json
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csprojAssemblyReference.cache
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfoInputs.cache
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfo.cs
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CoreCompileInputs.cache
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.RazorTargetAssemblyInfo.cache
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CopyComplete
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.Manifest.cache
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.xml
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+E:\MFPE\ClaimManagementSystem\ClaimManagementSystem\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.genruntimeconfig.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.exe
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.deps.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.runtimeconfig.dev.json
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csprojAssemblyReference.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfoInputs.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.AssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.csproj.CopyComplete
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ClaimsMicroservice.StaticWebAssets.xml
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.dll
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.pdb
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\obj\Debug\netcoreapp3.1\ClaimsMicroservice.genruntimeconfig.cache
+C:\Users\sud44\OneDrive\Desktop\Deploy\ClaimDeploy\ClaimsMicroservice\bin\Debug\netcoreapp3.1\ClaimMicroservice.yaml

@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: claimmicroservice-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ClaimMicroservice
+  template:
+    metadata:
+      labels:
+        app: ClaimMicroservice
+    spec:
+      containers:
+      - name: claimrepos
+        image: claimcr.azurecr.io/claimrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: claimmicroservice
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: ClaimMicroservice
